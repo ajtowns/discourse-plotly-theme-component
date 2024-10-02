@@ -1,0 +1,6 @@
+en:
+  theme_metadata:
+    description: ""
+
+  rendering_error: "<b>Error</b><p>Please ensure your plotly code is running on <a href='https://plotly.com/javascript/getting-started//'>the plotly js getting started site</a> and indented with 4 spaces."
+  insert_plotly_sample: "Plotly chart"
