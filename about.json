@@ -1,6 +1,6 @@
 {
   "about_url": "https://github.com/ajtowns/discourse-plotly-theme-component",
-  "license_url": null,
+  "license_url": "https://github.com/ajtowns/discourse-plotly-theme-component/blob/master/LICENSE",
   "assets": {
     "plotly_js": "assets/plotly-2.35.2.min.js"
   },
